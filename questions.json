@@ -1,0 +1,122 @@
+[
+  {
+    "question": "As the friends explore the dark corridors, they come across a dusty old blueprint. Is the shape drawn on the blueprint a polygon?",
+    "options": ["Yes", "No"],
+    "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "On examining the blueprint further, they notice its shape. What type of polygon could represent the blueprint of the mansion?",
+    "options": ["Concave polygon", "Convex polygon"],
+    "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "The friends start mapping out the hidden rooms and secret passageways they find. The overall shape formed by these rooms and passageways is most likely a:",
+    "options": ["Concave polygon", "Convex polygon"],
+    "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "They find another mysterious shape etched into the wall shown below in the figure. What do we call this polygon?",
+    "options": ["Dodecagon", "Nonagon", "Pentagon", "Octagon"],
+    "correct": 0,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "In another room, they discover a drawing with 10 sides. Can you name this polygon?",
+    "options": ["Octagon", "Hexagon", "Nonagon", "Decagon"],
+    "correct": 3,
+      "img": "./assests/images/5.jpg"
+  },
+  {
+    "question": "The friends stumble upon a strange diagram on the floor as shown below in the figure. What do we call this polygon?",
+    "options": ["Triangle", "Decagon", "Pentagon", "Quadrilateral"],
+    "correct": 3,
+      "img": "./assests/images/6.jpg"
+  },
+  {
+    "question": "One of the secret passages leads to a room with seven-sided shapes painted on the ceiling. What is a polygon with seven sides called?",
+    "options": ["Heptagon", "Quadrilateral", "Decagon", "Quadrilateral"],
+    "correct": 0,
+      "img": "./assests/images/7.jpg"
+  },
+  {
+    "question": "In the heart of the mansion, they discover a convex polygon. How many triangles can be formed by drawing all the diagonals from a single vertex?",
+    "options": ["4", "2", "3", "1"],
+    "correct": 1,
+      "img": "./assests/images/8.jpg"
+  },
+  {
+    "question": "They examined another convex polygon in the mansion, having seven sides. How many triangles are formed in the below given figure, by drawing all the diagonals from a single vertex?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 2,
+      "img": "./assests/images/9.jpg"
+  },
+  {
+    "question": "As they shine their flashlights on a large figure painted on the floor, one friend asks, Is this figure a regular polygon?",
+    "options": ["Yes", "No"],
+    "correct": 1,
+      "img": "./assests/images/10.jpg"
+  },
+  {
+    "question": "In another room, they find an ornate tile pattern. Is this pattern a regular polygon?",
+    "options": ["Yes", "No"],
+    "correct": 0,
+      "img": "./assests/images/11.jpg"
+  },
+  {
+    "question": "They found another ornate tile pattern. Is this pattern a regular polygon?",
+    "options": ["Yes", "No"],
+    "correct": 0,
+      "img": "./assests/images/12.jpg"
+  },
+  {
+    "question": "While exploring the mansion's grand hall, they notice a square pattern on the ceiling. How many diagonals does this square have?",
+    "options": ["2", "3", "4", "6"],
+    "correct": 0,
+      "img": "./assests/images/13.jpg"
+  },
+  {
+    "question": "In one of the rooms, they discover a regular octagon pattern on the floor. How many diagonals are in a regular octagon?",
+    "options": ["10", "15", "18", "20"],
+    "correct": 3,
+      "img": "./assests/images/14.jpg"
+  },
+  {
+    "question": "The friends uncover a nonagon shape in a hidden room. How many diagonals does this nonagon have?",
+    "options": ["19", "21", "27", "30"],
+    "correct": 2,
+      "img": "./assests/images/15.jpg"
+  },
+  {
+    "question": "While exploring the mysterious mansion, the friends discover a hidden room with an exterior angle formed by its corners measuring 45°. What is the number of sides of this regular polygon-shaped room?",
+    "options": ["4", "8", "3", "6"],
+    "correct": 1,
+      "img": "./assests/images/16.jpg"
+  },
+  {
+    "question": "Deep within the labyrinthine corridors of the abandoned mansion, the friends stumble upon a perfectly symmetrical room where each interior angle measures 165°. How many sides does this regular polygon-shaped room have?",
+    "options": ["15", "26", "24", "14"],
+    "correct": 2,
+      "img": "./assests/images/17.jpg"
+  },
+  {
+    "question": "In their exploration of the abandoned mansion, the friends discover a room shaped like a regular polygon with 9 sides. What is the measure of each exterior angle of this polygonal room?",
+    "options": ["60°", "30°", "40°", "50°"],
+    "correct": 2,
+      "img": "./assests/images/18.jpg"
+  },
+  {
+    "question": "The friends try to find the sum of the interior angles of a regular octagon they discovered in a hidden room. What is the value?",
+    "options": ["540°", "720°", "1080°", "1260°"],
+    "correct": 2,
+      "img": "./assests/images/19.jpg"
+  },
+  {
+    "question": "Finally they come across a decagon-shaped room in the mansion. What is the sum of the interior angles of this 10-sided polygon?",
+    "options": ["1260°", "1440°", "360°", "540°"],
+    "correct": 1,
+      "img": "./assests/images/20.jpg"
+  }
+]
